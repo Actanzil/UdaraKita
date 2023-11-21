@@ -1012,7 +1012,6 @@ section {
 }
 
 .content .entry .air-prediction .wrapper-desc .desc span {
-  display: flex;
   align-items: center;
   min-width: 90px;
   max-width: 90px;
